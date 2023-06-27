@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.tittle{
+  color: darkcyan;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: cursive;
+}
+.price{
+  color:Dr
+}
+.img{
+  border-radius: 10px;
+}
+.card{
+  border-radius: 50px;
+}
+.head{
+  color: aliceblue;
+}
+.cimg{
+  border-radius: 25px;
+}
+.ccard{
+  width: 400px;
+}
+.adimg{
+  border-radius: 20px;
+}

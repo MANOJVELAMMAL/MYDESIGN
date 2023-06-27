@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+};
+.price{
+    color: rgb(246, 230, 14);
+}
+.btn{
+    color: rgb(249, 6, 6);
+}

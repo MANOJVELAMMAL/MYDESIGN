@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head{
+    color:whitesmoke;
+    
+}
+.bg{
+    background:linear-gradient(#de9a9a,#111112);
+    z-index: 99;
+    
+}
+ .btn{
+    color: rgb(243, 11, 11);
+
+}
+.name{
+    color:rgba(229, 240, 245, 0.91);
+    text-align: start;
+    padding: auto;
+    font-family: Papyrus;
+    font-weight: 900;
+}
+.adimg{
+    border-radius: 20px;
+}
+.add{
+    display: flex;
+}
+.btn {
+    font-size: 100px;
+}
+.search{
+    
+    color: red;
+    width: 25px;
+    height: 25px;
+   
+}
